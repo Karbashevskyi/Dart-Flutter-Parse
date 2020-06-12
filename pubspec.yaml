@@ -1,7 +1,7 @@
 name: universalparsetype
 description: Parse libary have one function 'universal' for parse any type to set.
 version: 0.0.1
-author: ivankarbashevskyi@gmail.com
+author: Karbashevskyi Ivan <ivankarbashevskyi@gmail.com>
 homepage: https://github.com/Karbashevskyi/Dart-Flutter-Parse
 
 environment:
