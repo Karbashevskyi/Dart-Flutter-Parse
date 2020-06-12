@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 2020-06-12
 
-* TODO: Describe initial release.
+* Added function 'universal' for parse type, now function can parse three types is: int, double and string.
+* TODO Add new types.

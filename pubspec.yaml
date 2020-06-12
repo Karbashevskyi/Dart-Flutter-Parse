@@ -1,8 +1,8 @@
 name: universalparsetype
-description: A new HashLink package.
+description: Parse libary have one function 'universal' for parse any type to set.
 version: 0.0.1
 author: Karbashevskyi Ivan
-homepage:
+homepage: https://github.com/Karbashevskyi/Dart-Flutter-Parse
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
